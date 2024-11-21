@@ -1,15 +1,21 @@
 {
   "name": "n8n-nodes-execute-code",
   "version": "0.1.0",
-  "description": "",
+  "description": "A custom n8n node that executes programming code submissions using Judge0 API, ideal for coding contests or automated grading.",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n",
+    "n8n-community-node-package",
+    "judge0",
+    "coding",
+    "programming",
+    "code execution",
+    "automated grading"
   ],
   "license": "MIT",
   "homepage": "",
   "author": {
-    "name": "",
-    "email": ""
+    "name": "Tran Tuan Anh",
+    "email": "tuananh161224@gmail.com"
   },
   "repository": {
     "type": "git",
